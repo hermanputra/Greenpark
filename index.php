@@ -109,8 +109,8 @@
                 </div>
                 <div class="work span3">
                     <img src="assets/img/greenpark-map.png" alt="">
-                    <h4>10 Minutes drive from Airport</h4>
-                    <p>Get home in only 10 Min from airport, bus and train station. And 5 Min to the 2 malls nearby.</p>
+                    <h4>10 Min from Airport</h4>
+                    <p>Get home in only 15 Min from airport, bus and train station. And 10 Min to the 2 malls nearby.</p>
                     <div class="icon-awesome">
                         <a title="View Larger" href="assets/img/greenpark-map.png" rel="prettyPhoto"><i class="icon-search"></i></a>
                         <a title="Read More" href="location.php"><i class="icon-hand-up"></i></a>

@@ -38,7 +38,7 @@
                                         <a href="about.php"><i class="icon-user"></i><br />About</a>
                                     </li>
                                     <li>
-                                        <a href="contact.php"><i class="icon-envelope-alt"></i><br />Contact Us</a>
+                                        <a href="contact.php"><i class="icon-envelope-alt"></i><br />Contact<br>& Booking</a>
                                     </li>
                                 </ul>
                             </div>
@@ -55,7 +55,7 @@
                     <div class="span12">
                         <i class="icon-envelope-alt page-title-icon"></i>
                         <h2>Location /</h2>
-                        <p>Follow the easy way to find us.</p>
+                        <p>We got the best place for the best home.</p>
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                             <a href="assets/img/location/airport.jpg" rel="prettyPhoto">
                                 <img src="assets/img/location/airport.jpg" alt="">
                             </a>
-                            <h4>Adi Soemarmo International Airport</h4>
+                            <h4>Adi Soemarmo Airport</h4>
                             <p>Located 9,5 KM drive or 16 Minutes from Adi Soemarmo Airport.</p>
                         </div>
                     </li>
@@ -90,7 +90,7 @@
                             <a href="assets/img/location/solosqr.jpg" rel="prettyPhoto">
                                 <img src="assets/img/location/solosqr.jpg" alt="">
                             </a>
-                            <h4>Solo Square Mall <br> The lifestyle center</h4>
+                            <h4>Solo Square Mall <br>Lifestyle center</h4>
                             <p>In only 8 Minutes or 3,3 KM, you can arrive at Solo Square Mall.</p>
                         </div>
                     </li>
@@ -107,7 +107,7 @@
                     </ul>
                 </div>
                 <div class="contact-address span5">
-                    <h5 style="text-align: center   ">Distance and time are based on Google Maps Direction</h5>
+                    <h5 style="text-align: center   ">Distance and time are based on Google Maps</h5>
                     <div class="map"></div>
                     <h4>Address</h4>
                     <p>Jalan Pakel, Sumber <br> 57138, Surakarta, Jawa Tengah</p>

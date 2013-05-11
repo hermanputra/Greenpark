@@ -38,7 +38,7 @@
                                         <a href="about.php"><i class="icon-user"></i><br />About</a>
                                     </li>
                                     <li class="current-page">
-                                        <a href="#"><i class="icon-envelope-alt"></i><br />Contact Us</a>
+                                        <a href="#"><i class="icon-envelope-alt"></i><br />Contact<br>& Booking</a>
                                     </li>
                                 </ul>
                             </div>
@@ -54,8 +54,8 @@
                 <div class="row">
                     <div class="span12">
                         <i class="icon-envelope-alt page-title-icon"></i>
-                        <h2>Contact Us /</h2>
-                        <p>Here is how you can contact us</p>
+                        <h2>Contact & Booking /</h2>
+                        <p>Get your room now via email or phone!</p>
                     </div>
                 </div>
             </div>
@@ -65,14 +65,14 @@
         <div class="contact-us container">
             <div class="row">
                 <div class="contact-form span7">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <a href="">suscipit lobortis</a> nisl ut aliquip ex ea commodo consequat.</p>
+                    <center><h4><i class="icon-arrow-down"></i> Book Your Room Here <i class="icon-arrow-down"></i></h4></center>
                     <form method="post" action="assets/sendmail.php">
                         <label for="name" class="nameLabel">Name</label>
                         <input id="name" type="text" name="name" placeholder="Enter your name...">
                         <label for="email" class="emailLabel">Email</label>
                         <input id="email" type="text" name="email" placeholder="Enter your email...">
-                        <label for="subject">Subject</label>
-                        <input id="subject" type="text" name="subject" placeholder="Your subject...">
+                        <label for="bookingdate" class="bookingdateLabel">Booking Date</label>
+                        <input id="bookingdate" type="date" min="2013-07-01" max="2020-12-31" name="bookingdate">
                         <label for="message" class="messageLabel">Message</label>
                         <textarea id="message" name="message" placeholder="Your message..."></textarea>
                         <button type="submit">Send</button>

@@ -38,7 +38,7 @@
                                         <a href="about.php"><i class="icon-user"></i><br />About</a>
                                     </li>
                                     <li>
-                                        <a href="contact.php"><i class="icon-envelope-alt"></i><br />Contact Us</a>
+                                        <a href="contact.php"><i class="icon-envelope-alt"></i><br />Contact<br>& Booking</a>
                                     </li>
                                 </ul>
                             </div>
