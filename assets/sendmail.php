@@ -15,7 +15,7 @@ if($_POST) {
     $subject = "Greenpark Kos Reservation Form";
     $bookingdate = $_POST['bookingdate'];
     $message = trim($_POST['message']);
-    $content = "Hi Greenpark, I would like to book for a room that will start on ".$bookingdate.". And Here is my additional message : ".$message;
+    $content = "Hi Greenpark, I would like to book for a room that will start on ".$bookingdate.". \nAnd here is my additional message : \n".$message;
 
     $array = array();
     $array['nameMessage'] = '';
