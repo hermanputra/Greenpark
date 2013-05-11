@@ -682,6 +682,7 @@ footer .social a:hover { background-position: left top; }
 }
 
 .team-text p {
+    height: 80px;
     line-height: 24px;
     font-style: italic;
 }
