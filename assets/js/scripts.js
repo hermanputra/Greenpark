@@ -30,8 +30,12 @@ jQuery(document).ready(function() {
             $filters = $clientsClone.find('li[data-type~='+ $filterClass +']');
         }
  
-        $clientsHolder.quicksand($filters, {duration: 700}, function() {
-            $("a[rel^='prettyPhoto']").prettyPhoto({social_tools: false});
+        $clientsHolder.quicksand($filters, {
+            duration: 700
+        }, function() {
+            $("a[rel^='prettyPhoto']").prettyPhoto({
+                social_tools: false
+            });
         });
     });
 });
@@ -41,7 +45,9 @@ jQuery(document).ready(function() {
     Pretty Photo
 */
 jQuery(document).ready(function() {
-    $("a[rel^='prettyPhoto']").prettyPhoto({social_tools: false});
+    $("a[rel^='prettyPhoto']").prettyPhoto({
+        social_tools: false
+    });
 });
 
 
@@ -58,7 +64,9 @@ jQuery(function($) {
         var ul = $(this).find(".tweet_list");
         var ticker = function() {
             setTimeout(function() {
-                ul.find('li:first').animate( {marginTop: '-4em'}, 500, function() {
+                ul.find('li:first').animate( {
+                    marginTop: '-4em'
+                }, 500, function() {
                     $(this).detach().appendTo(ul).removeAttr('style');
                 });
                 ticker();
@@ -88,9 +96,15 @@ $(document).ready(function() {
 */
 jQuery(document).ready(function() {
     var position = new google.maps.LatLng(-7.542300, 110.799002);
-    $('.map').gmap({'center': position,'zoom': 15, 'disableDefaultUI':true, 'callback': function() {
+    $('.map').gmap({
+        'center': position,
+        'zoom': 15, 
+        'disableDefaultUI':true, 
+        'callback': function() {
             var self = this;
-            self.addMarker({'position': this.get('map').getCenter() });	
+            self.addMarker({
+                'position': this.get('map').getCenter()
+            });	
         }
     }); 
 });
@@ -105,6 +119,7 @@ jQuery(document).ready(function() {
         $('.contact-form form .nameLabel').html('Name');
         $('.contact-form form .emailLabel').html('Email');
         $('.contact-form form .messageLabel').html('Message');
+        $('.contact-form form .bookingdateLabel').html('BookingDate');
 
         var postdata = $('.contact-form form').serialize();
         $.ajax({
@@ -121,6 +136,9 @@ jQuery(document).ready(function() {
                 }
                 if(json.messageMessage != '') {
                     $('.contact-form form .messageLabel').append(' - <span class="violet" style="font-size: 13px; font-style: italic"> ' + json.messageMessage + '</span>');
+                }
+                if(json.bookingdateMessage != '') {
+                    $('.contact-form form .bookingdateLabel').append(' - <span class="violet" style="font-size: 13px; font-style: italic"> ' + json.bookingdateMessage + '</span>');
                 }
                 if(json.nameMessage == '' && json.emailMessage == '' && json.messageMessage == '') {
                     $('.contact-form form').fadeOut('fast', function() {
