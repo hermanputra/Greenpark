@@ -8,17 +8,20 @@ function isEmail($email) {
 if($_POST) {
 
     // Enter the email where you want to receive the message
-    $emailTo = 'contact.azmind@gmail.com';
+    $emailTo = 'hermancoma@gmail.com';
 
     $clientName = trim($_POST['name']);
     $clientEmail = trim($_POST['email']);
-    $subject = trim($_POST['subject']);
+    $subject = "Greenpark Kos Reservation Form";
+    $bookingdate = $_POST['bookingdate'];
     $message = trim($_POST['message']);
+    $content = "Hi Greenpark, I would like to book for a room that will start on ".$bookingdate.". And Here is my additional message : ".$message;
 
     $array = array();
     $array['nameMessage'] = '';
     $array['emailMessage'] = '';
     $array['messageMessage'] = '';
+    $array['bookingdateMessage'] = '';
 
     if($clientName == '') {
         $array['nameMessage'] = 'Please enter your name.';
@@ -29,10 +32,13 @@ if($_POST) {
     if($message == '') {
         $array['messageMessage'] = 'Please enter your message.';
     }
-    if($clientName != '' && isEmail($clientEmail) && $message != '') {
+    if($bookingdate == '') {
+        $array['bookingdateMessage'] = 'Please enter your booking date.';
+    }
+    if($clientName != '' && isEmail($clientEmail) && $message != '' && $bookingdate !='') {
         // Send email
 	$headers = "From: " . $clientName . " <" . $clientEmail . ">" . "\r\n" . "Reply-To: " . $clientEmail;
-	mail($emailTo, $subject, $message, $headers);
+	mail($emailTo, $subject, $content, $headers);
     }
 
     echo json_encode($array);
