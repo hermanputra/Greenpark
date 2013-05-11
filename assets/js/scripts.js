@@ -119,7 +119,7 @@ jQuery(document).ready(function() {
         $('.contact-form form .nameLabel').html('Name');
         $('.contact-form form .emailLabel').html('Email');
         $('.contact-form form .messageLabel').html('Message');
-        $('.contact-form form .bookingdateLabel').html('BookingDate');
+        $('.contact-form form .bookingdateLabel').html('Booking Date');
 
         var postdata = $('.contact-form form').serialize();
         $.ajax({
