@@ -987,6 +987,7 @@ ul.portfolio-img li {
     }
 
     .what-we-do .service p, .portfolio .work p {
+        height: 100px;
         padding-left: 10px;
         padding-right: 10px;
     }
