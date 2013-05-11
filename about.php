@@ -65,12 +65,12 @@
         <div class="about-us container">
             <div class="row">
                 <div class="about-us-text span12">
-                    <h4>About Andia</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper <span class="violet">suscipit lobortis</span> nisl ut aliquip ex ea commodo consequat. Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do <strong>eiusmod tempor</strong> incididunt.</p>
+                    <h4>About Green Park</h4>
+                    <p>Green Park is an executive class boarding house that are established since July 2013. With total area of almost 3000m&sup2, Green Park have some units and awesome facilities which can bring you to the higher lifestyle level.</p>
                     <h4>Our Mission</h4>
-                    <p>Lorem ipsum dolor sit amet, <span class="violet">consectetur adipisicing</span> elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, <strong>consectetur adipisicing</strong> elit, sed do eiusmod <span class="violet">tempor incididunt</span> ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-                    <h4>Why Choose Us</h4>
-                    <p>Lorem ipsum dolor sit amet, <strong>consectetur adipisicing elit</strong>, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et. Ut wisi enim ad minim veniam, quis <span class="violet">nostrud exerci</span> tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
+                    <p></p>
+                    <h4>Why Green Park?</h4>
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -82,47 +82,47 @@
             </div>
             <div class="row">
                 <div class="team-text span3">
-                    <img src="assets/img/team/1.jpg" alt="">
-                    <h4>John Doe</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
+                    <img src="assets/img/team/john.jpg" alt="">
+                    <h4>John Sophian</h4>
+                    <p>Owner of <span class="violet"> Green Park </span></p>
                     <div class="social-links">
-                        <a class="facebook" href=""></a>
-                        <a class="twitter" href=""></a>
-                        <a class="linkedin" href=""></a>
-                        <a class="email" href=""></a>
+                        <a class="facebook" title="John Sophian" href="http://facebook.com/john.sophian"></a>
+                        <!--<a class="twitter" href=""></a>-->
+                        <!--<a class="linkedin" href=""></a>-->
+                        <a class="email" title="john.sophian@gmail.com" ></a>
                     </div>
                 </div>
                 <div class="team-text span3">
                     <img src="assets/img/team/2.jpg" alt="">
-                    <h4>Jane Doe</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor...</p>
+                    <h4>Helena Handayani</h4>
+                    <p>Owner of <span class="violet"> Green Park </span></p>
                     <div class="social-links">
-                        <a class="facebook" href=""></a>
-                        <a class="twitter" href=""></a>
-                        <a class="linkedin" href=""></a>
-                        <a class="email" href=""></a>
+                        <a class="facebook" title="Helena Handayani" href="http://facebook.com/helena.handayani"></a>
+                        <!--<a class="twitter" href=""></a>-->
+                        <!--<a class="linkedin" href=""></a>-->
+                        <a class="email" title="john.sophian@gmail.com" ></a>
                     </div>
                 </div>
                 <div class="team-text span3">
-                    <img src="assets/img/team/3.jpg" alt="">
-                    <h4>Tim Brown</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod...</p>
+                    <img src="assets/img/team/herman.jpg" alt="">
+                    <h4>Herman Coma</h4>
+                    <p>Office Boy at <span class="violet"> Green Park </span> </p>
                     <div class="social-links">
-                        <a class="facebook" href=""></a>
-                        <a class="twitter" href=""></a>
-                        <a class="linkedin" href=""></a>
-                        <a class="email" href=""></a>
+                        <a class="facebook" title="Herman Sophian Putra" href="http://facebook.com/hermancoma"></a>
+                        <a class="twitter" title="@HermanComa" href="http://twitter.com/hermancoma"></a>
+                        <a class="linkedin" title="Herman Sophian" href="http://www.linkedin.com/pub/herman-sophian/23/762/685"></a>
+                        <a class="email" title="hermancoma@gmail.com" ></a>
                     </div>
                 </div>
                 <div class="team-text span3">
                     <img src="assets/img/team/4.jpg" alt="">
-                    <h4>Sarah Red</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod...</p>
+                    <h4>Steven Tipex</h4>
+                    <p>Photo Model at <span class="violet"> Green Park </span> </p>
                     <div class="social-links">
-                        <a class="facebook" href=""></a>
-                        <a class="twitter" href=""></a>
-                        <a class="linkedin" href=""></a>
-                        <a class="email" href=""></a>
+                        <a class="facebook" title="Steven Sophian Putra" href="http://facebook.com/steven.sophianputra"></a>
+                        <a class="twitter" title="@StevenTipex" href="http://twitter.com/StevenTipex"></a>
+                        <!--<a class="linkedin" title="Herman Sophian" href="http://www.linkedin.com/pub/herman-sophian/23/762/685"></a>-->
+                        <a class="email" title="hermancoma@gmail.com" ></a>
                     </div>
                 </div>
             </div>
