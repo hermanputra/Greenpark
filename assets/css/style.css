@@ -6,7 +6,7 @@
  * Author: Herman Coma  
  * Author URI: http://hermancoma.tk
  *
- */
+*/
 
 body {
     background: #fff;
@@ -16,10 +16,15 @@ body {
     font-size: 12px;
 }
 
-.violet { color: #77ff77; }
+.violet { 
+    color: rgb(17, 168, 35); 
+    font-weight: bold;
+/*    text-shadow: 1px 1px 0 #1F1F1F;
+    filter: dropshadow(color=#1F1F1F, offx=2, offy=1);*/
+}
 
 a {
-    color: #77ff77;
+    color: rgb(17, 168, 35); 
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -455,7 +460,7 @@ footer .widget i {
     overflow-y: hidden;
     list-style: none;
 }
-	
+
 .tweet_list li {
     height: 100%;
     overflow-y: auto;
@@ -463,11 +468,11 @@ footer .widget i {
     list-style-type: none;
     line-height: 24px;
 }
-		
+
 .tweet_list .tweet_avatar {
     float: left;
 }
-		
+
 .tweet_list .tweet_avatar img {
     vertical-align: middle;
 }
@@ -655,22 +660,22 @@ footer .social a:hover { background-position: left top; }
 
 .team-text .social-links a { display: inline-block; width: 24px; height: 24px; margin: 0 4px; vertical-align: middle; }
 
-.team-text .social-links a.twitter { background: url(../img/social-icons/twitter.png) left top no-repeat; }
-.team-text .social-links a.dribbble { background: url(../img/social-icons/dribbble.png) left top no-repeat; }
-.team-text .social-links a.pinterest { background: url(../img/social-icons/pinterest.png) left top no-repeat; }
-.team-text .social-links a.flickr { background: url(../img/social-icons/flickr.png) left top no-repeat; }
-.team-text .social-links a.forrst { background: url(../img/social-icons/forrst.png) left top no-repeat; }
-.team-text .social-links a.vimeo { background: url(../img/social-icons/vimeo.png) left top no-repeat; }
-.team-text .social-links a.linkedin { background: url(../img/social-icons/linkedin.png) left top no-repeat; }
-.team-text .social-links a.facebook { background: url(../img/social-icons/facebook.png) left top no-repeat; }
-.team-text .social-links a.email { background: url(../img/social-icons/email.png) left top no-repeat; }
-.team-text .social-links a.behance { background: url(../img/social-icons/behance.png) left top no-repeat; }
-.team-text .social-links a.googleplus { background: url(../img/social-icons/googleplus.png) left top no-repeat; }
-.team-text .social-links a.youtube { background: url(../img/social-icons/youtube.png) left top no-repeat; }
-.team-text .social-links a.skype { background: url(../img/social-icons/skype.png) left top no-repeat; }
-.team-text .social-links a.tumblr { background: url(../img/social-icons/tumblr.png) left top no-repeat; }
+.team-text .social-links a.twitter { background: url(../img/social-icons/twitter.png) left bottom no-repeat; }
+.team-text .social-links a.dribbble { background: url(../img/social-icons/dribbble.png) left bottom no-repeat; }
+.team-text .social-links a.pinterest { background: url(../img/social-icons/pinterest.png) left bottom no-repeat; }
+.team-text .social-links a.flickr { background: url(../img/social-icons/flickr.png) left bottom no-repeat; }
+.team-text .social-links a.forrst { background: url(../img/social-icons/forrst.png) left bottom no-repeat; }
+.team-text .social-links a.vimeo { background: url(../img/social-icons/vimeo.png) left bottom no-repeat; }
+.team-text .social-links a.linkedin { background: url(../img/social-icons/linkedin.png) left bottom no-repeat; }
+.team-text .social-links a.facebook { background: url(../img/social-icons/facebook.png) left bottom no-repeat; }
+.team-text .social-links a.email { background: url(../img/social-icons/email.png) left bottom no-repeat; }
+.team-text .social-links a.behance { background: url(../img/social-icons/behance.png) left bottom no-repeat; }
+.team-text .social-links a.googleplus { background: url(../img/social-icons/googleplus.png) left bottom no-repeat; }
+.team-text .social-links a.youtube { background: url(../img/social-icons/youtube.png) left bottom no-repeat; }
+.team-text .social-links a.skype { background: url(../img/social-icons/skype.png) left bottom no-repeat; }
+.team-text .social-links a.tumblr { background: url(../img/social-icons/tumblr.png) left bottom no-repeat; }
 
-.team-text .social-links a:hover { background-position: left bottom; }
+.team-text .social-links a:hover { background-position: left top; }
 
 .team-text h4 {
     margin-top: 20px;
