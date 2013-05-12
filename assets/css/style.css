@@ -19,8 +19,8 @@ body {
 .violet { 
     color: rgb(17, 168, 35); 
     font-weight: bold;
-/*    text-shadow: 1px 1px 0 #1F1F1F;
-    filter: dropshadow(color=#1F1F1F, offx=2, offy=1);*/
+    /*    text-shadow: 1px 1px 0 #1F1F1F;
+        filter: dropshadow(color=#1F1F1F, offx=2, offy=1);*/
 }
 
 a {
@@ -810,6 +810,13 @@ footer .social a:hover { background-position: left top; }
 .contact-us form input:-ms-input-placeholder, .contact-us form textarea:-ms-input-placeholder { color: #ccc; }
 .contact-us form input::-webkit-input-placeholder, .contact-us form textarea::-webkit-input-placeholder { color: #ccc; }
 
+.contact-address {
+    margin-top: 150px;     
+    border: 2px solid #62c462;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    border-radius: 20px;
+}
 /* ----- Google maps ----- */
 
 .map {
@@ -1144,4 +1151,6 @@ ul.portfolio-img li {
 
 }
 
-
+hr { display: block; height: 1px;
+     border: 0; border-top: 1px solid #62c462;
+     margin: 1em 0; padding: 0; }

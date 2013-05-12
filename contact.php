@@ -78,12 +78,13 @@
                         <button type="submit">Send</button>
                     </form>
                 </div>
-                <div class="contact-address span5">
-                    <h4>We Are Here</h4>
-                    <div class="map"></div>
-                    <h4>Address</h4>
-                    <p>Via Principe Amedeo 9 <br> 10100, Torino, TO, Italy</p>
-                    <p>Phone: 0039 333 12 68 347</p>
+                <div class="contact-address span4">
+                    <h4>Here is how you can get us<br></h4>
+                    <hr> 
+                    <p><i class="icon-map-marker"></i> <a style="color: brown" href="location.php">Jl. Pakel, Sumber, Surakarta, Jawa Tengah</a></p>
+                    <p><i class="icon-phone"></i> Phone: 0271 - 72 47 47</p>
+                    <p><i class="icon-user"></i> Facebook: <a href="facebook.com/greenparksolo">Greenpark Solo</a></p>
+                    <p><i class="icon-envelope-alt"></i> Email: <a style="color: black" href="contact.php">hermancoma@gmail.com</a></p>
                 </div>
             </div>
         </div>
