@@ -93,7 +93,7 @@
                     </div>
                 </div>
                 <div class="team-text span3">
-                    <img src="assets/img/team/2.jpg" alt="">
+                    <img src="assets/img/team/helen.jpg" alt="">
                     <h4>Helena Handayani</h4>
                     <p>Owner of <span class="violet"> Green Park </span></p>
                     <div class="social-links">
@@ -115,7 +115,7 @@
                     </div>
                 </div>
                 <div class="team-text span3">
-                    <img src="assets/img/team/4.jpg" alt="">
+                    <img src="assets/img/team/steven.jpg" alt="">
                     <h4>Steven Tipex</h4>
                     <p>Photo Model at <span class="violet"> Green Park </span> </p>
                     <div class="social-links">
@@ -127,9 +127,10 @@
                 </div>
             </div>
         </div>
+        <br><br>
 
         <!-- Testimonials -->
-        <div class="testimonials container">
+<!--        <div class="testimonials container">
             <div class="testimonials-title">
                 <h3>Testimonials</h3>
             </div>
@@ -163,7 +164,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>-->
 
         <?php require('footer.html'); ?>
 
