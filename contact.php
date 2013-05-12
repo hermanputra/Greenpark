@@ -84,7 +84,7 @@
                     <p><i class="icon-map-marker"></i> <a style="color: brown" href="location.php">Jl. Pakel, Sumber, Surakarta, Jawa Tengah</a></p>
                     <p><i class="icon-phone"></i> Phone: 0271 - 72 47 47</p>
                     <p><i class="icon-user"></i> Facebook: <a href="facebook.com/greenparksolo">Greenpark Solo</a></p>
-                    <p><i class="icon-envelope-alt"></i> Email: <a style="color: black" href="contact.php">hermancoma@gmail.com</a></p>
+                    <p><i class="icon-envelope-alt"></i> Email: <a style="color: black" href="contact.php">greenparksolo@gmail.com</a></p>
                 </div>
             </div>
         </div>
