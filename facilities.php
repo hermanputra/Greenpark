@@ -167,11 +167,11 @@
                     </li>
                     <li data-id="p-11" data-type="web-design" class="span3">
                         <div class="work">
-                            <a href="assets/img/facilities/fitness.jpg" rel="prettyPhoto">
-                                <img src="assets/img/facilities/fitness.jpg" alt="">
+                            <a href="assets/img/facilities/stone.jpg" rel="prettyPhoto">
+                                <img src="assets/img/facilities/stone.jpg" alt="">
                             </a>
-                            <h4>Fitness Room</h4>
-                            <p>This is the ideal athletic counterpoint to your everyday life. An impressive room full of sports equipment awaits sports fanatics wishing to increase their fitness.</p>
+                            <h4>Stone Therapy Track</h4>
+                            <p>Get healthy now! .</p>
                         </div>
                     </li>
                     <li data-id="p-12" data-type="print-design" class="span3">
