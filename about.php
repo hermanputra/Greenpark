@@ -66,7 +66,7 @@
             <div class="row">
                 <div class="about-us-text span12">
                     <h4>About Green Park</h4>
-                    <p>Green Park is an executive class boarding house that are established since July 2013. With total area of almost 3000m&sup2, Green Park have some units and awesome facilities which can bring you to the higher lifestyle level.</p>
+                    <p>Green Park is an executive class boarding house established in July 2013. With total land area of almost 3000m&sup2, Green park consists of several units of room with awesome facilities that brings you to a higher level of lifestyle.</p>
                     <h4>Our Mission</h4>
                     <p></p>
                     <h4>Why Green Park?</h4>

@@ -55,7 +55,7 @@
                     <div class="span12">
                         <i class="icon-shopping-cart page-title-icon"></i>
                         <h2>Price |</h2>
-                        <p>We have some pricing plan to adjust your needs.</p>
+                        <p>We have some pricing plans to suit your needs.</p>
                     </div>
                 </div>
             </div>
@@ -66,7 +66,7 @@
             <div class="row">
                 <div class="services-full-width-text span12">
                     <h4>Pricing Plan</h4>
-                    <p>As we know that our kos member consists of different people with different business, we provides you with some pricing plan so that you can choose wisely which one is the most suitable plan for you. Short term businessman may only book for 2 or 3 nights for example, where SMA Regina Pacis student is more suitable with 1 month payment plan.<br> So, Here they are :</p>
+                    <p>As we know that our tenant consists of different people with different businesses, we provide you with some pricing plan so that you can choose wisely which one is the most suitable plan for you. Short term businessman may only book for 2 or 3 nights for example, where SMA Regina Pacis student is more suitable with 1 month payment plan.<br> So, Here they are :</p>
                 </div>
             </div>
         </div>

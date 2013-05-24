@@ -56,7 +56,7 @@
                             <ul class="slides">
                                 <li data-thumb="assets/img/slider/1.jpg">
                                     <img src="assets/img/slider/1.jpg">
-                                    <p class="flex-caption">We bring you the true comfort with queen sized high quality spring bed.</p>
+                                    <p class="flex-caption">We bring you the true comfort with queen size high quality spring bed.</p>
                                 </li>
                                 <li data-thumb="assets/img/slider/2.jpg">
                                     <img src="assets/img/slider/2.jpg">
@@ -64,7 +64,7 @@
                                 </li>
                                 <li data-thumb="assets/img/slider/3.jpg">
                                     <img src="assets/img/slider/3.jpg">
-                                    <p class="flex-caption">Getting healthy and well-shaped ? You got what you want here.</p>
+                                    <p class="flex-caption">Wanna be healthy and well-shaped ? You'll get what you want here.</p>
                                 </li>
                                 <li data-thumb="assets/img/slider/6.jpg">
                                     <img src="assets/img/slider/6.jpg">
@@ -92,7 +92,7 @@
                 <div class="work span3">
                     <img src="assets/img/facilities/bed.jpg" alt="">
                     <h4>Modern Design Room</h4>
-                    <p>Our private sanctuaries where we retreat to every night and escape the stresses...</p>
+                    <p>A private sanctuary to retreat after a long day work...</p>
                     <div class="icon-awesome">
                         <a title="View Larger" href="assets/img/facilities/bed.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
                         <a title="Read More" href="portfolio.php"><i class="icon-hand-up"></i></a>
@@ -101,7 +101,7 @@
                 <div class="work span3">
                     <img src="assets/img/pricing.jpg" alt="">
                     <h4>Flexible Pricing Plan</h4>
-                    <p>You can enjoy the executives' facilities in various amount of time.</p>
+                    <p>You can enjoy the executives' facilities in various length of stay.</p>
                     <div class="icon-awesome">
                         <a title="View Larger" href="assets/img/pricing.jpg" rel="prettyPhoto"><i class="icon-search"></i></a>
                         <a title="Read More" href="portfolio.php"><i class="icon-hand-up"></i></a>
@@ -110,7 +110,7 @@
                 <div class="work span3">
                     <img src="assets/img/greenpark-map.png" alt="">
                     <h4>10 Min from Airport</h4>
-                    <p>Get home in only 15 Min from airport, bus and train station. And 10 Min to the 2 malls nearby.</p>
+                    <p>Get home in only 15 Min from airport, bus and railway station. And 10 Min from 2 biggest malls in Solo.</p>
                     <div class="icon-awesome">
                         <a title="View Larger" href="assets/img/greenpark-map.png" rel="prettyPhoto"><i class="icon-search"></i></a>
                         <a title="Read More" href="location.php"><i class="icon-hand-up"></i></a>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="work span3">
                     <img src="assets/img/booknow.png" alt="">
-                    <h4>Limited room! Book now !</h4>
+                    <h4>Limited rooms! Book now !</h4>
                     <p>Get your executive room now by contacting us via Email / Phone / Facebook </p>
                     <div class="icon-awesome">
                         <a title="View Larger" href="assets/img/booknow.png" rel="prettyPhoto"><i class="icon-search"></i></a>
